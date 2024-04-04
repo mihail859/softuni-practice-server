@@ -1,0 +1,224 @@
+[
+    {
+      "id": 0,
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": 2020,
+      "color": "Silver",
+      "price": 250,
+      "transmission": "Automatic",
+      "seats": 5,
+      "details": {
+        "engine": "2.5L Inline-4",
+        "fuelType": "Gasoline",
+        "mileage": 30000,
+        "condition": "Used",
+        "description": "Well-maintained, low mileage sedan.",
+        "image": "toyota_camry.jpg"
+      },
+      "isRented": {
+        "user": "none",
+        "period": "none"
+      }
+    },
+    {
+      "id": 1,
+      "brand": "Honda",
+      "model": "Accord",
+      "year": 2019,
+      "color": "Gray",
+      "price": 230,
+      "transmission": "Automatic",
+      "seats": 5,
+      "details": {
+        "engine": "1.5L Turbocharged Inline-4",
+        "fuelType": "Gasoline",
+        "mileage": 25000,
+        "condition": "Used",
+        "description": "Sporty sedan with excellent fuel efficiency.",
+        "image": "honda_accord.jpg"
+      },
+      "isRented": {
+        "user": "none",
+        "period": "none"
+      }
+    },
+    {
+      "id": 2,
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": 2018,
+      "color": "Red",
+      "price": 800,
+      "transmission": "Manual",
+      "seats": 4,
+      "details": {
+        "engine": "5.0L V8",
+        "fuelType": "Gasoline",
+        "mileage": 20000,
+        "condition": "Used",
+        "description": "Iconic American muscle car.",
+        "image": "ford_mustang.jpg"
+      },
+      "isRented": {
+        "user": "none",
+        "period": "none"
+      }
+    },
+    {
+      "id": 3,
+      "brand": "Chevrolet",
+      "model": "Camaro",
+      "year": 2019,
+      "color": "Yellow",
+      "price": 320,
+      "transmission": "Manual",
+      "seats": 4,
+      "details": {
+        "engine": "6.2L V8",
+        "fuelType": "Gasoline",
+        "mileage": 18000,
+        "condition": "Used",
+        "description": "Legendary performance car with a classic design.",
+        "image": "chevrolet_camaro.jpg"
+      },
+      "isRented": {
+        "user": "none",
+        "period": "none"
+      }
+    },
+    {
+      "id": 4,
+      "brand": "BMW",
+      "model": "X5",
+      "year": 2021,
+      "color": "White",
+      "price": 500,
+      "transmission": "Automatic",
+      "seats": 5,
+      "details": {
+        "engine": "3.0L Inline-6",
+        "fuelType": "Gasoline",
+        "mileage": 10000,
+        "condition": "New",
+        "description": "Luxurious SUV with advanced features.",
+        "image": "bmw_x5.jpg"
+      },
+      "isRented": {
+        "user": "none",
+        "period": "none"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "Audi",
+      "model": "A4",
+      "year": 2017,
+      "color": "Blue",
+      "price": 200,
+      "transmission": "Automatic",
+      "seats": 5,
+      "details": {
+        "engine": "2.0L Inline-4",
+        "fuelType": "Gasoline",
+        "mileage": 15000,
+        "condition": "Used",
+        "description": "Luxury sedan with a sleek design.",
+        "image": "audi_a4.jpg"
+      },
+      "isRented": {
+        "user": "none",
+        "period": "none"
+      }
+    },
+    {
+      "id": 6,
+      "brand": "Volkswagen",
+      "model": "Golf GTI",
+      "year": 2016,
+      "color": "Gray",
+      "price": 100,
+      "transmission": "Automatic",
+      "seats": 5,
+      "details": {
+        "engine": "2.0L Inline-4",
+        "fuelType": "Gasoline",
+        "mileage": 20000,
+        "condition": "Used",
+        "description": "Compact hatchback known for its performance.",
+        "image": "volkswagen_golf_gti.jpg"
+      },
+      "isRented": {
+        "user": "none",
+        "period": "none"
+      }
+    },
+    {
+      "id": 7,
+      "brand": "Nissan",
+      "model": "Altima",
+      "year": 2017,
+      "color": "White",
+      "price": 150,
+      "transmission": "Automatic",
+      "seats": 5,
+      "details": {
+          "engine": "2.5L Inline-4",
+          "fuelType": "Gasoline",
+          "mileage": 35000,
+          "condition": "Used",
+          "description": "Reliable midsize sedan with spacious interior.",
+          "image": "nissan_altima.jpg"
+      },
+      "isRented": {
+        "user": "none",
+        "period": "none"
+      }
+    },
+    {
+      "id": 8,
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2018,
+      "color": "Black",
+      "price": 250,
+      "transmission": "Automatic",
+      "seats": 5,
+      "details": {
+          "engine": "2.0L Inline-4",
+          "fuelType": "Gasoline",
+          "mileage": 25000,
+          "condition": "Used",
+          "description": "Luxury sedan known for its comfort and performance.",
+          "image": "mercedes_c_class.jpg"
+      },
+      "isRented": {
+        "user": "none",
+        "period": "none"
+      }
+  },
+  {
+      "id": 9,
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": 2019,
+      "color": "Red",
+      "price": 1000,
+      "transmission": "Automatic",
+      "seats": 5,
+      "details": {
+          "engine": "Electric",
+          "fuelType": "Electric",
+          "mileage": 15000,
+          "condition": "Used",
+          "description": "Fully electric sedan with impressive acceleration.",
+          "image": "tesla_model_3.jpg"
+      },
+      "isRented": {
+        "user": "none",
+        "period": "none"
+      }
+  }
+    
+]
+  
